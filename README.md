@@ -1,2 +1,2 @@
 # wechall
-We challange solves in python
+We challange solution in python
