@@ -1,0 +1,3 @@
+Similar to first stegano: type vim attachment.php.jpeg
+OR: type unzip attachment.php.jpeg -> It will give you text file called
+"solution.txt" which you can open in vim
