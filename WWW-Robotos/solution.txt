@@ -1,0 +1,3 @@
+Open new card and paste: http://www.wechall.net/robots.txt
+After that paste: http://www.wechall.net/ + X
+Were X is a first Disallow section in result of the first link
